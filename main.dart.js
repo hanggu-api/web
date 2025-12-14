@@ -30147,7 +30147,7 @@ _.r=_.f=3
 _.w=2
 _.x=3
 _.y=8
-_.z="https://api-yourapp.vercel.app"
+_.z="https://cardapyia.com/api"
 _.c=_.a=null},
 aHM:function aHM(a,b){this.a=a
 this.b=b},
@@ -30379,7 +30379,7 @@ ayZ:function ayZ(a){this.a=a},
 ayY:function ayY(a,b){this.a=a
 this.b=b},
 az_:function az_(){},
-NP(){return"https://api-yourapp.vercel.app"},
+NP(){return"https://cardapyia.com/api"},
 aRt(a,b){return new A.NO(a)},
 a8c:function a8c(){this.a=null},
 a8d:function a8d(a,b){this.a=a
